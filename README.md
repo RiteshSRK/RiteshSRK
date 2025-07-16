@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RiteshSRK&label=Profile%20views&color=0e75b6&style=flat" alt="riteshgupta" />
-  <img src="https://img.shields.io/github/followers/riteshgupta?label=Follow&style=social" alt="followers">
+  <img src="https://img.shields.io/github/followers/RiteshSRK?label=Follow&style=social" alt="followers">
 </p>
 
 ---

@@ -48,5 +48,5 @@ I’m open to collaboration, learning, and exciting new opportunities!
 
 ## 📊 GitHub Stats
 
-![Ritesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riteshgupta&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshgupta&layout=compact&theme=tokyonight)
+![Ritesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshSRK&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshSRK&layout=compact&theme=tokyonight)

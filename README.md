@@ -48,9 +48,6 @@ I’m open to collaboration, learning, and exciting new opportunities!
 
 ## 📊 GitHub Stats
 
-![Ritesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshSRK&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshSRK&layout=compact&theme=tokyonight)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RiteshSRK&rank_icon=github&show_icons=true&include_all_commits=true&theme=dracula"  height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RiteshSRK&layout=donut&theme=dracula&hide_border=false" height="180"/>

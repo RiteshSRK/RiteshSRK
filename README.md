@@ -59,3 +59,23 @@ I’m open to collaboration, learning, and exciting new opportunities!
     height="180"
   />
 </p>
+
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RiteshSRK&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshSRK&layout=compact&langs_count=8&theme=dracula" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RiteshSRK&theme=dracula"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiteshSRK&theme=dracula"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RiteshSRK&theme=dracula&row=1&column=7"/>
+</p>

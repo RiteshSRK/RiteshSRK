@@ -46,7 +46,7 @@ I’m open to collaboration, learning, and exciting new opportunities!
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
 <p align="center">
   <img
@@ -55,6 +55,7 @@ I’m open to collaboration, learning, and exciting new opportunities!
   />
 </p>
 
+## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiteshSRK&theme=dracula"/>
 </p>

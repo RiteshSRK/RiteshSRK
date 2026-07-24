@@ -48,9 +48,6 @@ I’m open to collaboration, learning, and exciting new opportunities!
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RiteshSRK&theme=dracula"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiteshSRK&theme=dracula"/>

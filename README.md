@@ -41,7 +41,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=RiteshSRK&theme=dracula&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=RiteshSRK&theme=dracula&hide_border=true&cache_seconds=1800"
     alt="GitHub Streak"
   />
 </p>

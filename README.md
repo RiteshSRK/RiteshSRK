@@ -41,10 +41,11 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=RiteshSRK&theme=dracula&hide_border=true&cache_seconds=1800"
+    src="./assets/streak.svg"
     alt="GitHub Streak"
   />
 </p>
+
 
 ## 📈 Contribution Graph
 <p align="center">

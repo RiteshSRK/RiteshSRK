@@ -40,14 +40,13 @@
 ## 📊 GitHub Streak
 
 <p align="center">
-  <img
+  <!-- <img
     src="https://streak-stats.demolab.com?user=RiteshSRK&theme=dracula&hide_border=true"
     alt="GitHub Streak"
-  />
-</p>
+  /> -->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RiteshSRK&theme=sakura-x)
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=&theme=sakura-x)](https://git.io/streak-stats) -->
+  ![GitHub Streak](https://streak-stats.demolab.com?user=RiteshSRK&theme=sakura-x)
+</p>
 
 ## 📈 Contribution Graph
 <p align="center">

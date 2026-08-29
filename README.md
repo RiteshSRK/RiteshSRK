@@ -46,7 +46,8 @@
   />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RiteshSRK)
+![GitHub Streak](https://streak-stats.demolab.com?user=RiteshSRK&theme=sakura-x)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=&theme=sakura-x)](https://git.io/streak-stats) -->
 
 ## 📈 Contribution Graph
 <p align="center">

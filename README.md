@@ -40,10 +40,10 @@
 ## 📊 GitHub Streak
 
 <p align="center">
-  <!-- <img
-    src="https://streak-stats.demolab.com?user=RiteshSRK&theme=dracula&hide_border=true"
+  <img
+    src="https://streak-stats.demolab.com?user=RiteshSRK&theme=sakura-x"
     alt="GitHub Streak"
-  /> -->
+  />
 
   ![GitHub Streak](https://streak-stats.demolab.com?user=RiteshSRK&theme=sakura-x)
 </p>

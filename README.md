@@ -39,9 +39,14 @@
 
 ## 📊 GitHub Streak
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=RiteshSRK&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</a>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=RiteshSRK&theme=dracula&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RiteshSRK)
 
 ## 📈 Contribution Graph
 <p align="center">

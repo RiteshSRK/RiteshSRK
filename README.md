@@ -44,15 +44,12 @@
     src="https://streak-stats.demolab.com?user=RiteshSRK&theme=sakura-x"
     alt="GitHub Streak"
   />
-
-  ![GitHub Streak](https://streak-stats.demolab.com?user=RiteshSRK&theme=sakura-x)
 </p>
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiteshSRK&theme=dracula"/>
+  <img src="https://github.pumbas.net/api/contributions/RiteshSRK?colour=007BFB"/>
 </p>
-
 ---
 
 ## 📫 Let's Connect

@@ -40,7 +40,7 @@
 ## 📊 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-praveen.vercel.app/?user=RiteshSRK&theme=dracula" width="420" height="180" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=RiteshSRK&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 📈 Contribution Graph

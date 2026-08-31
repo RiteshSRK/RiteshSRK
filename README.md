@@ -45,7 +45,7 @@
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github.pumbas.net/api/contributions/RiteshSRK?colour=7E3CD9" alt="RiteshSRK's Contributions"/>
+  <img src="https://github.pumbas.net/api/contributions/RiteshSRK?colour=161B22" alt="RiteshSRK's Contributions"/>
 </p>
 
 ---

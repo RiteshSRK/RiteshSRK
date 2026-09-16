@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ritesh+Kumar+Gupta;A+passionate+Full+Stack+Developer+from+India)](https://git.io/typing-svg)
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ritesh+Kumar+Gupta;A+passionate+Full+Stack+Developer" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RiteshSRK&label=Profile%20views&color=0e75b6&style=flat" alt="riteshgupta" />
